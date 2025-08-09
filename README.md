@@ -1,20 +1,20 @@
-# 🏳️‍🌈 🏳️‍🌈 Welcome! 🏳️‍🌈 🏳️‍🌈
+# 🏳️‍🌈 🏳️‍🌈 ***Welcome!*** 🏳️‍🌈 🏳️‍🌈
 
-## About Me ✌️
+## ***About Me*** ✌️
 
-I'm a student at Western Governors University (WGU) with a passion for technology, accessibility, and inclusive innovation. My top skills include **HTML**, **C#**, and **Python**—I’m always learning and striving to grow my abilities.
+> I'm a student at Western Governors University (WGU) with a passion for technology, accessibility, and inclusive innovation. My top skills include **HTML**, **C#**, **CSS**, and **Python**—I’m always learning and striving to grow my abilities.
 
-## Skills 💻
+## ***Skills*** 💻
 
-- **Languages:** HTML, C#
+- **Languages:** HTML, C#, CSS
 - **Scripting/Data:** Python
 - **Interests:** Accessibility, Diversity in Tech, Inclusive Design
 
-## Writing ✍️
+## ***Writing*** ✍️
 
-When I’m not coding, I write LGBTQIA+ romance stories—centered on gay and sapphic themes—because representation matters and I'm gay myself. Write what you know, afterall. 😉 
+> When I’m not coding, I write LGBTQIA+ romance stories—centered on gay themes—because representation matters and I'm gay myself. Write what you know, afterall. 😉 
 
-## Goals 1️⃣
+## ***Goals*** 1️⃣
 
 - Expand my technical expertise
 - Contribute to accessible, inclusive projects
@@ -22,6 +22,6 @@ When I’m not coding, I write LGBTQIA+ romance stories—centered on gay and sa
 
 ---
 
-### Let’s Connect 📱
+### ***Let’s Connect*** 📱
 
-Feel free to reach out if you want to collaborate, chat about accessibility, or are interested in diverse storytelling!
+> Feel free to reach out if you want to collaborate, chat about accessibility, or are interested in diverse storytelling!
