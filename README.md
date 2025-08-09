@@ -12,7 +12,7 @@ I'm a student at Western Governors University (WGU) with a passion for technolog
 
 ## Writing ✍️
 
-When I’m not coding, I write LGBTQ+ romance stories—centered on gay and sapphic themes—because representation matters and I'm quite gay myself. Write what you know. 
+When I’m not coding, I write LGBTQIA+ romance stories—centered on gay and sapphic themes—because representation matters and I'm gay myself. Write what you know, afterall. 😉 
 
 ## Goals 1️⃣
 
