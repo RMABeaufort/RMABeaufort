@@ -2,7 +2,7 @@
 
 ## ***About Me*** ✌️
 
-> I'm a student at Western Governors University (WGU) with a passion for technology, accessibility, and inclusive innovation. My top skills include **HTML**, **C#**, **CSS**, and **Python**—I’m always learning and striving to grow my abilities. Additionally, I am a literary editor with a background in teaching ESL students and working with creatives at all walks of the writing process. 
+> I'm a self-taught UX designer with a passion for technology, accessibility, and inclusive innovation. My top skills include **Figma**,**HTML**, **C#**, **CSS**, and **Python**—I’m always learning and striving to grow my abilities. Additionally, I am a literary editor with a background in teaching ESL students and working with creatives at all walks of the writing process. 
 ## ***Skills*** 💻
 
 - **Languages:** HTML, C#, CSS
